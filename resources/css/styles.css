@@ -1,0 +1,109 @@
+body {
+    background-color: lightpink;
+  
+}
+
+
+header {
+    background-image: url("/project1/resources/images/pattern.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    height: 150px;
+
+}
+
+footer {
+    background-image: url("/project1/resources/images/pattern.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50px;
+    position: relative;
+    top: 150px;
+    left: 0;
+    right: 0;
+ 
+
+}
+
+
+
+h1, h2, span {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    margin: 10px auto;
+    
+}
+
+h2 {
+    
+    font-size: 32px;
+    color: white;
+}
+
+span {
+color: blue;
+}
+
+
+
+img {
+    border: 2px solid black;
+    
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+.tool {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.prices {
+    border: 1px solid pink;
+    width: 200px;
+    padding: 10px 5px;
+}
+
+.text {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin: 10px auto;
+    left: 50%;
+    
+}
+
+.contain {
+
+    position: relative;
+    top: 150px;
+}
+
+.description {
+    font-size: 20px;
+}
