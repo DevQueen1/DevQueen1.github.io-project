@@ -5,7 +5,7 @@ body {
 
 
 header {
-    background-image: url("/project1/resources/images/pattern.jpeg");
+    background-image: url("./resources/images/pattern.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
